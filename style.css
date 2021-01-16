@@ -355,6 +355,7 @@ footer > p:last-of-type {
   header .brand + ul > li a {
     font-size: initial;
     text-transform: capitalize;
+    font-weight: bold;
   }
 
   .brand + ul > li {
